@@ -1,0 +1,4 @@
+## GAME005-GUESS	猜數字大小(0-100)遊戲
+## GAME010-TIGER	棒打老虎雞吃蟲
+## GAME015-THIRTEEN	十三支
+## GAME020-PACMAN	小精靈
